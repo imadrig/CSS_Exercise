@@ -15,3 +15,7 @@ section {
     padding: 16px;
 }
 
+#title {
+    font-size: 40px;
+    font-weight: 800;
+}
