@@ -8,3 +8,10 @@ main {
     margin: 44px auto;
 
 }
+
+section {
+    margin: 44px 0;
+    border: 3px dotted orange;
+    padding: 16px;
+}
+
